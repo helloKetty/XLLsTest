@@ -8,8 +8,6 @@ import java.text.DecimalFormat;
 public class 汇丰笔试题 {
     @Test
     public void race() {
-        // System.out.println(15*2+16F*200/60);
-        System.out.println(56F * 60 / 200);
        /*
        A 40m/min,B 60m/min;
        200米休息时间2min,
